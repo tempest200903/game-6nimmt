@@ -1,0 +1,8 @@
+2013-10-26    <simei@GOAT-PC>
+
+	* lib/enchant.js: $ copy
+	$IRVINE\enchant.js-builds-0.8.0\build\enchant.js lib
+
+	* index.html: https://github.com/wise9/enchant.js Usage のソースファ
+	イルをコピーして、ペースト。 enchant.js の場所指定を修正。
+
