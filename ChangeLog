@@ -1,3 +1,8 @@
+2013-10-27    <simei@GOAT-PC>
+
+	* index.html: fragment1.html lib/main.js fragment2.html を連結して
+	index.html を作成する方式に変更する。 Dropbox で再生する都合のため。
+
 2013-10-26    <simei@GOAT-PC>
 
 	* lib/enchant.js: $ copy
